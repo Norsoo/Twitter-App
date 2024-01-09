@@ -1,2 +1,4 @@
-# Twitter-App
-This is a webview APP for twitter for ppl who r lazy
+# Twitter
+--------------------------------
+
+This is for people who are too lazy to actually do it themselfs and google twitter lol
